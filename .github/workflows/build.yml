@@ -1,4 +1,4 @@
-name: Azure Python 3.8
+name: Azure Python Versions
 
 on: push
 
